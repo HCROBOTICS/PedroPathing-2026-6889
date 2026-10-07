@@ -107,7 +107,7 @@ public class TestPedroAuto extends OpMode {
     }
 
 
-    // The code for the robot is below, init stuff is above
+    // The code for the robot is below, initilize stuff is above
 
 
     @Override

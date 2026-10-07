@@ -42,10 +42,10 @@ public class TestPedroAuto extends OpMode {
 
     PathState pathState;
 
-    // STARTING POS
+    // STARTING POSE
     private final Pose startPose = new Pose(10.10, 24.34, Math.toRadians(90));
 
-    // PATH POS
+    // PATH POSE
     private final Pose path1 = new Pose(59.62, 38.63, Math.toRadians(90));
     private final Pose path2 = new Pose(12.00, 107.58, Math.toRadians(90));
 
